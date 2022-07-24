@@ -12,6 +12,13 @@ Next.js server-side rendering (SSR) least-recently-used (LRU) cache example insp
 
 ## Install
 
+Clone the repository:
+
+```sh
+git clone https://github.com/remarkablemark/nextjs-ssr-lru-cache-example.git
+cd nextjs-ssr-lru-cache-example
+```
+
 Install the dependencies:
 
 ```sh
