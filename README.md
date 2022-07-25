@@ -34,3 +34,8 @@ npm run server
 ```
 
 When the page is requested for the first time, the HTML will be rendered and cached based on the LRU policy. When the page is requested again, the cached HTML will be returned in the response.
+
+## Resources
+
+- [Make your NextJS site 10-100x faster with Express caching](https://www.peterbe.com/plog/nextjs-faster-with-express-caching)
+- [SSR Request Cache for React / NEXT.JS with Cacheable-Response](https://www.christopherkaiser.de/ssr-request-cache-for-react-next/)
